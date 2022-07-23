@@ -35,6 +35,7 @@ What city/state has the highest average square footage?
 What is the most common square footage by city/state?
 
 # Sources of data
-https://www.kaggle.com/datasets/crawlfeeds/redfin-usa-real-estate-data
+
+https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
 
 https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor
