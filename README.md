@@ -18,17 +18,17 @@ We will need to adjust the datasets so that they columns can more easily be join
 We plan on storing our information in mongoDB (non-relational) and joining our two databases on city/state.
 
 # Question to Answer
-What is the highest average salary by city?
+What is the highest average salary by state?
 
-What is the most common salary by city?
+What is the most common salary by state?
 
-What is the highest/lowest price to buy a dwelling by city?
+What is the highest/lowest price to buy a dwelling by state?
 
 What is the highest differential between salary and price?
 
 What is the highest rated data science position in the US?
 
-What city/state has the highest average rating?
+What state has the highest average rating?
 
 What city/state has the highest average square footage?
 
