@@ -30,10 +30,6 @@ What is the highest rated data science position in the US?
 
 What state has the highest average rating?
 
-What state has the highest average square footage?
-
-What is the most common square footage by state?
-
 # Sources of data
 
 https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
