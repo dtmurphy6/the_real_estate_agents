@@ -9,7 +9,7 @@ Dan, Danielle, Kevin, Maite
 The goal of this project is to assess housing prices around the country (United States) compared to the average salary for data scientists. 
 
 # Extract
-We plan on using Redfin real esate data and Data scientist salary data from Kaggle. These are formatted as CSVs.
+We plan on using Redfin real esate data and Data scientist salary data from Kaggle. The file with the Redfin real estate data is formatted as a TSV with multiple files for different types of housing data (i.e. nationwide, statewide, by neighborhood, etc), so we had to figure out what data we wanted to use from it and convert it to a CSV. The Data Scientist file is already formatted as a CSV file, but its location data needs to be split up so we can get state and city into individual columns and later join them by the state columns.
 
 # Transform
 We will need to adjust the datasets so that they columns can more easily be joined. We will need to check for blank columns or other data that needs to be cleaned.
