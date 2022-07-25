@@ -30,9 +30,9 @@ What is the highest rated data science position in the US?
 
 What state has the highest average rating?
 
-What city/state has the highest average square footage?
+What state has the highest average square footage?
 
-What is the most common square footage by city/state?
+What is the most common square footage by state?
 
 # Sources of data
 
