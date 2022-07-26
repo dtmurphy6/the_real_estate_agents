@@ -24,11 +24,15 @@ What is the most common salary by state?
 
 What is the highest/lowest price to buy a dwelling by state?
 
-What is the highest differential between salary and price?
+# What is the highest differential between salary and price?
+The states to live in with the highest median salary and lowest median house cost is Kentucky, followed by Ohio, Mississippi, and Missouri, and Indiana.
 
-What is the highest rated data science position in the US?
+The states to live in with the highest mean salary and lowest mean house cost is Kentucky, followed by Ohio, Missouri, and Mississippi, and Indiana.
 
-What state has the highest average rating?
+# What state has the highest average rating?
+The states to live in with the highest median rating is Georgia, followed by Iowa, Minnesota, and South Carolina, and Alabama.
+
+The states to live in with the highest mean rating is Minnesota, followed by Georgia, South Carolina, and Iowa, and Alabama.
 
 # Sources of data
 
