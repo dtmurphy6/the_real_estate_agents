@@ -26,7 +26,7 @@ What is the highest/lowest price to buy a dwelling by state?
 
 What is the highest differential between salary and price?
 
-# What state has the highest average rating?
+### What state has the highest average rating?
 The states to live in with the highest median rating is Georgia, followed by Iowa, Minnesota, and South Carolina, and Alabama.
 
 The states to live in with the highest mean rating is Minnesota, followed by Georgia, South Carolina, and Iowa, and Alabama.
