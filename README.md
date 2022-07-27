@@ -1,7 +1,8 @@
 # Project 2: The Real Estate Agents
 
-## Team Members
+## Team Members:
 Kevin Flores, Dan Murphy, Maite Rivas, Danielle Sears
+
 ## Project Description/Outline
 We chose two datasets to extract, transform, and load. Our goal for this project is to assess housing prices around the country (United States) compared to the average salary for data scientists. Each dataset included a ton of information, so the main priorities were to analyze the columns within each dataset and find what we were actually interested in extracting data from. Moreover, we also had to decide what type of database to use so we chose on MongoDB, a NoSQL database. 
 
@@ -16,7 +17,7 @@ In order to transform our datasets, there were a few things to do. We started by
 ## Loading
 Lastly, we had to store our information in a database, which we used mongoDB (non-relational) for, and then join the two databases on state.
 
-# Questions to Answer:
+## Questions to Answer:
 What is the highest average salary by state?
 
 What is the most common salary by state?
