@@ -37,11 +37,11 @@ The states to live in with the highest mean rating is Minnesota, followed by Geo
 
 
 
-What is the highest average salary by state?
+### What is the highest average salary by state?
 
-What is the most common salary by state?
+### What is the most common salary by state?
 
-What is the highest differential between salary and price?
+### What is the highest differential between salary and price?
 
 
 
