@@ -1,4 +1,4 @@
-# Project 2 Title: The Real Estate Agents
+# Project 2: The Real Estate Agents
 
 ## Team Members
 Kevin Flores, Dan Murphy, Maite Rivas, Danielle Sears
