@@ -30,9 +30,10 @@ The states to live in with the highest median rating is Georgia, followed by Iow
 
 The states to live in with the highest mean rating is Minnesota, followed by Georgia, South Carolina, and Iowa, and Alabama.
 
-*See code [here](Code_Scripts/data_science_housing.ipynb)
-
 ## Sources of data
 https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
 
 https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor
+
+
+*See code [here](Code_Scripts/data_science_housing.ipynb)
