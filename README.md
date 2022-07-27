@@ -29,7 +29,7 @@ The lowest housing cost was in Alabama, followed by Mississippi, West Virginia, 
 The highest housing cost was in Hawaii, followed by Connecticut, New Mexico, Washington, D.C., and Maine.
 
 
-### What state has the highest average rating?
+### What state has the highest average job rating?
 
 The states to live in with the highest median rating is Georgia, followed by Iowa, Minnesota, and South Carolina, and Alabama.
 
