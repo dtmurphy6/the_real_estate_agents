@@ -15,19 +15,16 @@ In order to transform our datasets, there were a few things to do. We started by
 Lastly, we had to store our information in a database, which we used mongoDB (non-relational) for, and then join the two databases on state.
 
 # Questions to Answer:
-What is the highest average salary by state?
+### What is the highest average salary by state?
+Illinois at 111.57K per year
 
-What is the most common salary by state?
-
-What is the highest/lowest price to buy a dwelling by state?
-
-What is the highest differential between salary and price?
+### What is the highest differential between salary and price?
+Kentucky has the biggest cost differential followed by Ohio, Mississippi, Missouri, and Indiana.
 
 ### What state has the highest average rating?
 The states to live in with the highest median rating is Georgia, followed by Iowa, Minnesota, and South Carolina, and Alabama.
 
 The states to live in with the highest mean rating is Minnesota, followed by Georgia, South Carolina, and Iowa, and Alabama.
-
 
 ## Sources of data
 https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
