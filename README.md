@@ -35,3 +35,9 @@ What state has the highest average rating?
 https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
 
 https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor
+
+
+Kevin's Question: 'What is the highest differential by state and salary'
+I made a quick formula that ignores some factors that vary from situation and state for the sake of simplicity. 
+Formula:
+(Salary * %30 [Industry standard recommended amount]) - (Mean House Price / 30 years [Industry standard mortgage term]) = Yearly housing budget surplus.
