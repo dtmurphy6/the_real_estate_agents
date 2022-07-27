@@ -4,6 +4,7 @@
 Kevin Flores, Dan Murphy, Maite Rivas, Danielle Sears
 ## Project Description/Outline
 We chose two datasets to extract, transform, and load. Our goal for this project is to assess housing prices around the country (United States) compared to the average salary for data scientists. Each dataset included a ton of information, so the main priorities were to analyze the columns within each dataset and find what we were actually interested in extracting data from. Moreover, we also had to decide what type of database to use so we chose on MongoDB, a NoSQL database. 
+
 Below, we will describe how we extracted, transformed, and then loaded our original datasets as well as some findings.
 
 ## Extracting
