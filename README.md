@@ -16,7 +16,7 @@ Lastly, we had to store our information in a database, which we used mongoDB (no
 
 # Questions to Answer:
 ### What is the highest average salary by state?
-Illinois at 111.57K per year
+Illinois at $111.57K per year
 
 ### What is the highest differential between salary and price?
 Kentucky has the biggest cost differential followed by Ohio, Mississippi, Missouri, and Indiana.
