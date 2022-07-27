@@ -12,7 +12,7 @@ We are using the [Redfin Real Estate Dataset 2012-2021](https://www.kaggle.com/d
 In order to transform our datasets, there were a few things to do. We started by checking for blank columns, and dropped columns from the files to exclude any unnecessary information. Next, the location column within the Data Scientist Salaries file had to be renamed so we could later join the two datasets on the state columns. We also decided we were only interested in Redfin Housing data from 2018 and on, since housing prices have changed so drastically in recent years. The chart contained information dating all the way back to 2012, and we felt 3 years worth of data would be enough information for our dataset or for future calculations. We did this by converting the date column and then getting housing data from those 3 years.
 
 ## Loading
-We plan on storing our information in mongoDB (non-relational) and joining our two databases on city/state.
+Lastly, we had to store our information in a database, which we used mongoDB (non-relational) for, and then join the two databases on state.
 
 # Questions to Answer:
 What is the highest average salary by state?
