@@ -13,9 +13,9 @@ import json
 raw_salary_df = pd.read_csv("Resources/raw_salary_data_scientist.csv")
 raw_salary_df
 
-# Drop unnecessary columns
+# Only include relevant columns
 
-salary_df = raw_state_df[["Job Title", "Job Description", "Rating", "Company Name", "Headquarters", "Size", "Founded", "Type of Owner", "Industry", "Sector", "Revenue", "Competitors", "Hourly", "Employer provided", "company_txt", "Age", "Python", "spark", "aws", "excel", "sql", "sas", "keras", "pytorch", "scikit", "tensor", "hadoop", "tableau", "bi", "flink", "mongo", "google_an", "seniority_by_title", "Degree"]]
+salary_df = raw_salary_df[["Avg Salary(K)", "Job Location", "job_title_sim"]]
 salary_df
 
 # View column types
@@ -29,17 +29,7 @@ salary_df_mean.sort_values(by='Avg Salary(K)').head()
 
 # What is the most common salary by state?
 
-salary_df_mean = salary_df.groupby(['Job Location']).mode()
-salary_df_mean.sort_values(by='Avg Salary(K)').head()
+salary_df_mean = salary_df.groupby(['Job Location'])['Avg Salary(K)'].apply(pd.Series.mode)
+salary_df_mean
 
-# Initialize PyMongo to work with MongoDBs
-conn = 'mongodb://localhost:27017'
-client = pymongo.MongoClient(conn)
 
-# Define the salary database in Mongo
-
-db = client.ds_salary_db
-
-# Declare the mean and mode collections
-mean = db.mean
-mode = db.mode
